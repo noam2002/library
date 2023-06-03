@@ -34,6 +34,3 @@ Once the application is running, you can use the following endpoints to access i
 
 The Library Management System was created by Noam Tyberg as a project for FS Python.
 
-## License
-
-The Library Management System is licensed under the MIT License.
