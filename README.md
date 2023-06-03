@@ -16,8 +16,8 @@ Our Library Management System offers the following features:
 To install the Library Management System on your local machine, follow these steps:
 
 1. Clone this repository to your local machine
-2. Create a virtual environment using virtualenv or conda
-3. Activate the virtual environment
+2. Create a virtual environment using virtualenv or conda using `py -3 -m venv env`      
+3. Activate the virtual environment `.\env\Scripts\activate`
 4. Install the required dependencies using `pip install -r requirements.txt`
 5. Start the Flask server using `python app.py`
 6. Access the application in your web browser at [http://localhost:5000]
